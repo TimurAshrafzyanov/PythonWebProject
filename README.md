@@ -18,7 +18,7 @@ pip install requests
 
 pip install blinker
 
-pip install flask_testing
+pip install Flask-Testing
 
 Запуск проекта (находясь в папке web) :
 
