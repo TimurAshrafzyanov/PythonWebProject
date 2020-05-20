@@ -11,8 +11,14 @@
 Перед запускомм установить следующие модули:
 
 pip install flask
+
 pip install flask_wtf
+
 pip install requests
+
+pip install blinker
+
+pip install Flask-Testing
 
 Запуск проекта (находясь в папке web) :
 
